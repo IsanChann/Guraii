@@ -1,13 +1,13 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "Cotto matte...",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "Link yg kamu berikan tidak valid..",
+        "api": "Gomen ada sedikit kesalahan..."
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "Perintah grup only,Baka!!",
+    "OnlyPM": "Perintah private massage only,Baka!!",
+    "GrupAdmin": "Khusus Admin,Mwheehehehe",
+    "BotAdmin": "Bot blum jd admin..",
+    "OnlyOwner": "Khusus owner aku,Mwheehehehe :3 ",
+    "OnlyPrem": "Khusus Premium member :>"
 }
